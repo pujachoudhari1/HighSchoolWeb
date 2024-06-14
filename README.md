@@ -1,0 +1,2 @@
+# HighSchoolWeb
+demo school website
